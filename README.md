@@ -47,10 +47,10 @@
 Name: K R Tejas Kumar
 Location: 🇮🇳 India
 Role: Computer Science Student
-Focus: Full Stack Development & Software Engineering
+Focus: Full Stack Development & Skilled Software Engineering
 ```
 
-🚀 &nbsp;I am a **Computer Science student** passionate about **Full Stack Development** and **Software Engineering**.
+🚀 &nbsp;I am a **Computer Science student** passionate about **Full Stack Development** and **Skilled Software Engineering**.
 
 💡 &nbsp;I enjoy building **web applications**, solving **Data Structures & Algorithms** problems, and continuously **learning modern technologies**.
 
