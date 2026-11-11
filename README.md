@@ -1,130 +1,88 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:080D1A,55:101B35,100:153B59&height=190&section=header&text=K%20R%20TEJAS%20KUMAR&fontSize=42&fontColor=EAF6FF&fontAlignY=42&desc=Computer%20Science%20%7C%20Data%20Science&descSize=16&descColor=9CC7E8&descAlignY=66" width="100%" alt="K R Tejas Kumar profile banner"/>
-<a href="https://linkedin.com/in/k-r-tejas-kumar-733b26379">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070b08,60:0d2a0d,100:39FF14&height=230&section=header&text=K%20R%20TEJAS%20KUMAR&fontSize=52&fontColor=39FF14&fontAlignY=38&desc=B.E.%20CSE%20(Data%20Science)%20%C2%B7%20SSIT%20Tumkur&descSize=18&descColor=D9E6DC&descAlignY=60&animation=fadeIn" width="100%" alt="K R Tejas Kumar"/>
+
 <a href="https://github.com/Teju9793">
-  <img src="https://img.shields.io/badge/GitHub-Profile-24292F?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-&nbsp;
-<a href="https://teju9793.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-Explore-16A6B6?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-&nbsp;
-<a href="mailto:ttej97933@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=700&height=45&lines=Full-Stack+Developer;Android+Developer;Data+Science+Student;Founder+%26+Technical+Lead+%40+NEXOVA" alt="Typing intro"/>
 </a>
 
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=72D6E8&center=true&vCenter=true&width=650&lines=Building+useful+digital+experiences;Full-stack+%26+Android+development;Exploring+data+analysis+and+machine+learning" alt="Animated introduction"/></div>About
-I'm a Computer Science and Engineering (Data Science) student at Sri Siddhartha Institute of Technology, Tumkur. I enjoy turning ideas into practical applications across web and Android development.
+<a href="https://www.linkedin.com/in/k-r-tejas-kumar-733b26379/"><img src="https://img.shields.io/badge/LinkedIn-k--r--tejas--kumar-39FF14?style=for-the-badge&logo=linkedin&logoColor=39FF14&labelColor=070b08&label=" alt="LinkedIn"/></a>
+<a href="https://github.com/Teju9793"><img src="https://img.shields.io/badge/GitHub-Teju9793-39FF14?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=070b08&label=" alt="GitHub"/></a>
+<a href="mailto:ttej97933@gmail.com"><img src="https://img.shields.io/badge/Email-ttej97933@gmail.com-39FF14?style=for-the-badge&logo=gmail&logoColor=39FF14&labelColor=070b08&label=" alt="Email"/></a>
+<a href="https://teju9793.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-teju9793.vercel.app-39FF14?style=for-the-badge&logo=vercel&logoColor=39FF14&labelColor=070b08&label=" alt="Portfolio"/></a>
 
-I have internship experience in AI web development and hands-on experience with full-stack applications, mobile app development, and student-focused platforms. I’m also strengthening my foundations in programming, Data Structures & Algorithms, and data analysis.
-- Focus: Full-stack development, Android development, and data science
-- Experience: AI Web Development Intern at InAmigos Foundation
-- Leadership: Founder & Technical Lead of NEXOVA, a student technical club
-- Based in: Karnataka, India
-Technical toolkit
-<div align="center">Area	Technologies
-Programming	Python · Java · C
-Web	HTML · CSS · JavaScript · React · Next.js · TypeScript
-Data & Analysis	NumPy · Pandas · Matplotlib · Seaborn · Data Cleaning
-Backend & Data	Supabase · PHP · SQL
-Android	Kotlin · Android SDK · Jetpack Glance · AlarmManager
-Tools & Platforms	Git · GitHub · VS Code · Vercel
+</div>
 
+<br/>
 
-</div>Selected projects
-<table>
-  <tr>
-    <td width="50%" valign="top">ClassNow
-Android Timetable Management App
+## `// 01  ABOUT`
 
-An Android application that identifies the current class and displays it through a home-screen widget. Includes timetable CSV import/export, validation, replacement, and scheduled widget refresh.
+```json
+{
+  "name": "K R Tejas Kumar",
+  "degree": "B.E. CSE (Data Science)",
+  "college": "Sri Siddhartha Institute of Technology, Tumkur",
+  "cgpa": "8.6 / 10",
+  "experience": "AI Web Development Intern · InAmigos Foundation",
+  "leading": "Founder & Technical Lead · NEXOVA",
+  "builds": "full-stack web + Android apps with AI-assisted development",
+  "seeking": ["software engineering", "full-stack development", "AI-driven technologies"]
+}
+```
 
-Kotlin Android SDK Jetpack Glance AlarmManager CSV
-</td>
-    <td width="50%" valign="top">STIGMABOY
-Creator Commerce & Learning Platform
+## `// 02  TECH STACK`
 
-A full-stack creator platform with authentication, role-based data handling, course and template sales, dashboards, wishlists, and order management.
+<div align="center">
 
-Next.js 14 TypeScript Tailwind CSS Supabase
+<img src="https://img.shields.io/badge/Python-070b08?style=for-the-badge&logo=python&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/Java_(DSA)-070b08?style=for-the-badge&logo=openjdk&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/C-070b08?style=for-the-badge&logo=c&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/HTML-070b08?style=for-the-badge&logo=html5&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/CSS-070b08?style=for-the-badge&logo=css3&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/JavaScript-070b08?style=for-the-badge&logo=javascript&logoColor=39FF14"/>
+<br/>
+<img src="https://img.shields.io/badge/React-070b08?style=for-the-badge&logo=react&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/Next.js-070b08?style=for-the-badge&logo=nextdotjs&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/TypeScript-070b08?style=for-the-badge&logo=typescript&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-070b08?style=for-the-badge&logo=tailwindcss&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/Supabase-070b08?style=for-the-badge&logo=supabase&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/PHP-070b08?style=for-the-badge&logo=php&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/SQL-070b08?style=for-the-badge&logoColor=39FF14"/>
+<br/>
+<img src="https://img.shields.io/badge/Kotlin-070b08?style=for-the-badge&logo=kotlin&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/Android-070b08?style=for-the-badge&logo=android&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/NumPy-070b08?style=for-the-badge&logo=numpy&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/Pandas-070b08?style=for-the-badge&logo=pandas&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/Matplotlib-070b08?style=for-the-badge&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/Seaborn-070b08?style=for-the-badge&logoColor=39FF14"/>
+<br/>
+<img src="https://img.shields.io/badge/Git-070b08?style=for-the-badge&logo=git&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/GitHub-070b08?style=for-the-badge&logo=github&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/VS_Code-070b08?style=for-the-badge&logo=visualstudiocode&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/Vercel-070b08?style=for-the-badge&logo=vercel&logoColor=39FF14"/>
 
-Open project
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">Personal Portfolio
-Portfolio Website
+</div>
 
-A responsive portfolio website featuring project showcases, smooth animations, and a contact form.
+## `// 03  PROJECTS`
 
-React Vite Tailwind CSS Framer Motion EmailJS
+| Project | What it is | Built with | Link |
+|:--|:--|:--|:--:|
+| **ClassNow** | Android timetable app that detects the current class and shows it on a Jetpack Glance home-screen widget; CSV import/export with validation | Kotlin · Android SDK · Jetpack Glance · AlarmManager | — |
+| **STIGMABOY** | Creator marketplace: auth, role-based data, course & template sales, dashboard, wishlist, orders | Next.js 14 · TypeScript · Tailwind CSS · Supabase | [Live ↗](https://stigmaboy.vercel.app/) |
+| **Portfolio Website** | Responsive portfolio with smooth animations, project showcases and a working contact form | React · Vite · Tailwind · Framer Motion · EmailJS | [Live ↗](https://teju9793.vercel.app/) |
+| **Study Matrix 360** | Student platform for study materials and previous year question papers | HTML · CSS · JavaScript · PHP · SQL | [Live ↗](https://studymatrix360.web.app/) |
+| **Writers Hub** | Platform for writers and readers with an integrated marketplace | HTML · CSS · JavaScript · PHP · SQL | [Live ↗](https://writershub.infinityfreeapp.com/) |
+| **NEXOVA Club Website** | College club site for activities, event updates and engagement | HTML · CSS · JavaScript · PHP · SQL | [Live ↗](https://nexova.infinityfreeapp.com/) |
 
-Visit portfolio
-</td>
-    <td width="50%" valign="top">Study Matrix 360
-Student Academic Platform
+## `// 04  JOURNEY`
 
-A platform designed to organize study materials and previous-year question papers.
+| When | Role | Where |
+|:--|:--|:--|
+| 2026 – Present | **Founder & Technical Lead** — leads the club's digital platform and team | NEXOVA, SSIT Tumkur |
+| Jun – Jul 2026 | **AI Web Development Intern** — responsive web pages, intro AI concepts | InAmigos Foundation (Remote) |
+| CGPA 8.6 / 10 | **B.E. — CSE (Data Science)** | Sri Siddhartha Institute of Technology, Tumkur |
+| 86.6 % | **Higher Secondary (Class XII)** | Jnana Sampada PU College, Kunigal |
 
-HTML CSS JavaScript PHP SQL
-
-Open project
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">Writers Hub
-Writing & Marketplace Platform
-
-A platform for writers and readers to share content, with an integrated marketplace for products and services.
-
-HTML CSS JavaScript PHP SQL
-
-Open project
-</td>
-    <td width="50%" valign="top">NEXOVA
-College Technical Club Website
-
-A digital platform for student activities, event updates, and engagement, developed for the NEXOVA college club.
-
-HTML CSS JavaScript PHP SQL
-
-Open website
-</td>
-  </tr>
-</table>Experience
-AI Web Development Intern — InAmigos Foundation (IAF)
-June 2026 – July 2026 · Remote · Bengaluru, Karnataka
-- Built responsive web pages and applications using HTML, CSS, and JavaScript.
-- Applied introductory AI concepts in web applications through practical tasks and mini-projects.
-- Gained exposure to development practices, user interface design, and modern web technologies.
-Leadership
-Founder & Technical Lead — NEXOVA Student Technical Club
-2026 – Present · Sri Siddhartha Institute of Technology, Tumkur
-- Founded a student-led club focused on innovation, AI, programming, technology, and skill development.
-- Leading the development of a digital platform for club activities, events, announcements, and student engagement.
-- Coordinating technical initiatives and encouraging practical learning and collaboration.
-Education
-Bachelor of Engineering — Computer Science and Engineering (Data Science)
-Sri Siddhartha Institute of Technology, Tumkur
-CGPA: 8.6 / 10
-
-Higher Secondary Education — Class XII
-Jnana Sampada PU College, Kunigal
-Percentage: 86.6%
-<div align="center">Let's connect
-I'm interested in building practical software, learning through projects, and collaborating with people who enjoy creating useful technology.
-
-<a href="mailto:ttej97933@gmail.com">Email</a>
- · 
-<a href="https://linkedin.com/in/k-r-tejas-kumar-733b26379">LinkedIn</a>
- · 
-<a href="https://github.com/Teju9793">GitHub</a>
- · 
-<a href="https://teju9793.vercel.app">Portfolio</a>
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:153B59,55:101B35,100:080D1A&height=85&section=footer&text=Build%20with%20curiosity.&fontSize=20&fontColor=9CC7E8" width="100%" alt="Build with curiosity"/></div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,60:0d2a0d,100:070b08&height=120&section=footer&text=Quick%20learner%20%C2%B7%20Adaptable%20%C2%B7%20Self-motivated&fontSize=20&fontColor=D9E6DC&fontAlignY=35" width="100%" alt=""/>
