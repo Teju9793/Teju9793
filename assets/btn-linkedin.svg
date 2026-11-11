@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="290" height="86" viewBox="0 0 290 86" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Courier New',monospace">
+<defs>
+<filter id="glow" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="#58A6FF" stop-opacity="0.9"/><stop offset="1" stop-color="#58A6FF" stop-opacity="0"/></linearGradient>
+
+</defs>
+<rect x="2" y="2" width="286" height="82" rx="14" fill="#161B22" stroke="#58A6FF" stroke-opacity="0.5"/><rect x="2" y="2" width="6" height="82" rx="3" fill="#58A6FF"><animate attributeName="opacity" values="1;0.3;1" dur="2.4s" repeatCount="indefinite"/></rect><text x="30" y="38" font-size="19" font-weight="800" letter-spacing="2" fill="#58A6FF">LINKEDIN ↗</text><text x="30" y="62" font-size="13" fill="#8B949E">k-r-tejas-kumar</text>
+</svg>

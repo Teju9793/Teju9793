@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Courier New',monospace">
+<defs>
+<filter id="glow" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="#58A6FF" stop-opacity="0.9"/><stop offset="1" stop-color="#58A6FF" stop-opacity="0"/></linearGradient>
+
+</defs>
+<path d="M0 95 Q300 65 600 95 T1200 95 V150 H0Z" fill="#58A6FF" fill-opacity="0.1"><animate attributeName="d" dur="7s" repeatCount="indefinite" values="M0 95 Q300 65 600 95 T1200 95 V150 H0Z;M0 95 Q300 125 600 95 T1200 95 V150 H0Z;M0 95 Q300 65 600 95 T1200 95 V150 H0Z"/></path><path d="M0 112 Q300 82 600 112 T1200 112 V150 H0Z" fill="#58A6FF" fill-opacity="0.18"><animate attributeName="d" dur="5s" repeatCount="indefinite" values="M0 112 Q300 82 600 112 T1200 112 V150 H0Z;M0 112 Q300 142 600 112 T1200 112 V150 H0Z;M0 112 Q300 82 600 112 T1200 112 V150 H0Z"/></path><path d="M0 130 Q300 100 600 130 T1200 130 V150 H0Z" fill="#58A6FF" fill-opacity="0.35"><animate attributeName="d" dur="6s" repeatCount="indefinite" values="M0 130 Q300 100 600 130 T1200 130 V150 H0Z;M0 130 Q300 160 600 130 T1200 130 V150 H0Z;M0 130 Q300 100 600 130 T1200 130 V150 H0Z"/></path><text x="600" y="58" text-anchor="middle" font-size="22" fill="#E6EDF3">Quick learner  <tspan fill="#58A6FF">·</tspan>  Adaptable  <tspan fill="#58A6FF">·</tspan>  Self-motivated</text>
+</svg>
