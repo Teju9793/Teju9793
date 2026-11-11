@@ -1,8 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Courier New',monospace">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Courier New',monospace">
 <defs>
-<filter id="glow" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-<linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="#58A6FF" stop-opacity="0.9"/><stop offset="1" stop-color="#58A6FF" stop-opacity="0"/></linearGradient>
-
+<linearGradient id="timeline" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#58A6FF"/><stop offset="1" stop-color="#A371F7"/></linearGradient>
+<filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="3" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 </defs>
-<rect width="1200" height="560" rx="18" fill="#161B22" stroke="#30363D"/><rect x="320" y="50" width="2" height="460" fill="#30363D"/><rect x="320" y="50" width="2" height="0" fill="#58A6FF"><animate attributeName="height" from="0" to="460" dur="3s" fill="freeze"/></rect><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.0s" dur="0.6s" fill="freeze"/><text x="285" y="62" text-anchor="end" font-size="17" font-weight="700" fill="#58A6FF">2026 — NOW</text><circle cx="321" cy="56" r="8" fill="#0D1117" stroke="#58A6FF" stroke-width="2"><animate attributeName="r" values="7;10;7" dur="2.4s" repeatCount="indefinite"/></circle><text x="362" y="62" font-size="24" font-weight="800" fill="#E6EDF3">Founder &amp; Technical Lead</text><text x="362" y="90" font-size="16" fill="#58A6FF" opacity="0.85">NEXOVA · Student Technical Club · SSIT Tumkur</text><text x="362" y="118" font-size="15" fill="#8B949E">Founded the club for innovation, AI, programming and skill development; leading</text><text x="362" y="140" font-size="15" fill="#8B949E">its digital platform and coordinating the team.</text></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.7s" dur="0.6s" fill="freeze"/><text x="285" y="192" text-anchor="end" font-size="17" font-weight="700" fill="#58A6FF">JUN – JUL 2026</text><circle cx="321" cy="186" r="8" fill="#0D1117" stroke="#58A6FF" stroke-width="2"><animate attributeName="r" values="7;10;7" dur="2.4s" repeatCount="indefinite"/></circle><text x="362" y="192" font-size="24" font-weight="800" fill="#E6EDF3">AI Web Development Intern</text><text x="362" y="220" font-size="16" fill="#58A6FF" opacity="0.85">InAmigos Foundation (IAF) · Remote, Bengaluru</text><text x="362" y="248" font-size="15" fill="#8B949E">Built responsive pages with HTML, CSS and JavaScript; applied introductory AI</text><text x="362" y="270" font-size="15" fill="#8B949E">concepts through mini-projects.</text></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.4s" dur="0.6s" fill="freeze"/><text x="285" y="322" text-anchor="end" font-size="17" font-weight="700" fill="#58A6FF">CGPA 8.6 / 10</text><circle cx="321" cy="316" r="8" fill="#0D1117" stroke="#58A6FF" stroke-width="2"><animate attributeName="r" values="7;10;7" dur="2.4s" repeatCount="indefinite"/></circle><text x="362" y="322" font-size="24" font-weight="800" fill="#E6EDF3">B.E. — CSE (Data Science)</text><text x="362" y="350" font-size="16" fill="#58A6FF" opacity="0.85">Sri Siddhartha Institute of Technology, Tumkur</text><text x="362" y="378" font-size="15" fill="#8B949E">Computer Science &amp; Engineering with a Data Science specialisation.</text></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.0999999999999996s" dur="0.6s" fill="freeze"/><text x="285" y="452" text-anchor="end" font-size="17" font-weight="700" fill="#58A6FF">86.6 %</text><circle cx="321" cy="446" r="8" fill="#0D1117" stroke="#58A6FF" stroke-width="2"><animate attributeName="r" values="7;10;7" dur="2.4s" repeatCount="indefinite"/></circle><text x="362" y="452" font-size="24" font-weight="800" fill="#E6EDF3">Higher Secondary (Class XII)</text><text x="362" y="480" font-size="16" fill="#58A6FF" opacity="0.85">Jnana Sampada PU College, Kunigal</text></g>
+<rect width="1200" height="460" rx="18" fill="#161B22" stroke="#30363D"/>
+<rect x="320" y="52" width="2" height="0" fill="url(#timeline)"><animate attributeName="height" from="0" to="350" dur="1.8s" fill="freeze"/></rect>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.35s" dur="0.5s" fill="freeze"/>
+<text x="285" y="86" text-anchor="end" font-size="16" font-weight="700" fill="#58A6FF">2026 - NOW</text>
+<circle cx="321" cy="80" r="8" fill="#0D1117" stroke="#58A6FF" stroke-width="2" filter="url(#glow)"><animate attributeName="r" values="7;10;7" dur="2.8s" repeatCount="indefinite"/></circle>
+<text x="362" y="86" font-size="23" font-weight="800" fill="#E6EDF3">Founder &amp; Technical Lead</text>
+<text x="362" y="114" font-size="16" fill="#58A6FF">NEXOVA | Student Technical Club | SSIT Tumkur</text>
+<text x="362" y="144" font-size="15" fill="#8B949E">Leading a student community focused on innovation, AI and programming.</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.9s" dur="0.5s" fill="freeze"/>
+<text x="285" y="216" text-anchor="end" font-size="16" font-weight="700" fill="#58A6FF">JUN - JUL 2026</text>
+<circle cx="321" cy="210" r="8" fill="#0D1117" stroke="#58A6FF" stroke-width="2" filter="url(#glow)"><animate attributeName="r" values="7;10;7" dur="2.8s" repeatCount="indefinite"/></circle>
+<text x="362" y="216" font-size="23" font-weight="800" fill="#E6EDF3">AI Web Development Intern</text>
+<text x="362" y="244" font-size="16" fill="#58A6FF">InAmigos Foundation | Bengaluru</text>
+<text x="362" y="274" font-size="15" fill="#8B949E">Built responsive web experiences and explored practical AI concepts.</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.45s" dur="0.5s" fill="freeze"/>
+<text x="285" y="346" text-anchor="end" font-size="16" font-weight="700" fill="#58A6FF">EDUCATION</text>
+<circle cx="321" cy="340" r="8" fill="#0D1117" stroke="#58A6FF" stroke-width="2" filter="url(#glow)"><animate attributeName="r" values="7;10;7" dur="2.8s" repeatCount="indefinite"/></circle>
+<text x="362" y="346" font-size="23" font-weight="800" fill="#E6EDF3">B.E. - CSE (Data Science)</text>
+<text x="362" y="374" font-size="16" fill="#58A6FF">Sri Siddhartha Institute of Technology, Tumkur</text>
+<text x="362" y="404" font-size="15" fill="#8B949E">Building a strong foundation in computer science and data science.</text>
+</g>
 </svg>
