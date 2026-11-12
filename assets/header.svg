@@ -16,7 +16,7 @@
 <text x="60" y="108" font-size="20" fill="#8B949E"><tspan fill="#58A6FF">$</tspan> whoami</text>
 <text x="56" y="196" font-size="78" font-weight="800" letter-spacing="3" fill="#58A6FF" filter="url(#glow)">K R TEJAS KUMAR</text>
 <clipPath id="c1"><rect x="60" y="215" width="0" height="50"><animate attributeName="width" values="0;760;760;0" keyTimes="0;0.4;0.9;1" dur="9s" repeatCount="indefinite"/></rect></clipPath>
-<g clip-path="url(#c1)"><text x="60" y="248" font-size="28" fill="#E6EDF3">Full-Stack  ·  Android  ·  Data Science</text></g>
+<g clip-path="url(#c1)"><text x="60" y="248" font-size="28" fill="#E6EDF3">Full-Stack  ·  Android  ·  Data Science  ·  AI ML </text></g>
 <rect x="60" y="222" width="14" height="30" fill="#58A6FF"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/><animate attributeName="x" values="60;820;820;60" keyTimes="0;0.4;0.9;1" dur="9s" repeatCount="indefinite"/></rect>
 <text x="60" y="300" font-size="18" fill="#8B949E">B.E. CSE (Data Science) · SSIT Tumkur   <tspan fill="#58A6FF">//</tspan>   Founder, NEXOVA</text>
 <g transform="translate(1040,72)" opacity="0.9"><path d="M0 0h60v6H6v54H0z" fill="#58A6FF" opacity="0.5"/></g>
